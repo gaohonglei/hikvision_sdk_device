@@ -1,0 +1,3 @@
+[2016-09-09 19:01:26,987] [INFO] [__main__-12320.log] [hikvision_wrap.py:try_process_device:1099]  try start id:xxxx ip:172.16.1.198
+[2016-09-09 19:01:31,848] [INFO] [__main__-12320.log] [hikvision_wrap.py:try_process_device:1117]  try login hikevison
+[2016-09-09 19:01:37,569] [INFO] [__main__-12320.log] [hikvision_wrap.py:try_process_device:1119]  try type:0

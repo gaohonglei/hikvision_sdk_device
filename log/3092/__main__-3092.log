@@ -1,0 +1,4 @@
+[2016-09-14 11:30:11,278] [INFO] [__main__-3092.log] [hikvision_wrap.py:try_process_device:1104]  try start id:xxxx ip:172.16.1.198
+[2016-09-14 11:30:14,165] [INFO] [__main__-3092.log] [hikvision_wrap.py:try_process_device:1122]  try login hikevison
+[2016-09-14 11:30:15,289] [INFO] [__main__-3092.log] [hikvision_wrap.py:try_process_device:1124]  try type:0
+[2016-09-14 11:30:30,000] [INFO] [__main__-3092.log] [hikvision_wrap.py:try_process_device:1176]  device_id:xxxx ip172.16.1.198 user:admin pwd:admin123 pid:3092 threadid:10020 try process success.
